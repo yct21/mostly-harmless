@@ -1,0 +1,8 @@
+{
+  "name": "mostly-harmless",
+  "version": "0.0.0",
+  "description": "Private GTD tool built with Electron",
+  "main": "index.js",
+  "author": "Chutian Yang <yct21@12tcy.com>",
+  "license": "MIT"
+}
