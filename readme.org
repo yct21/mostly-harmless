@@ -1,0 +1,10 @@
+* Mostly harmless
+
+This is a time tracking and GTD application inspired by [[https://bluecocoa.com/time/?ref=producthunt][Bluecocoa's Time]].
+
+It is built with:
+
+- Electron
+- RxJs
+- React
+- Redux
